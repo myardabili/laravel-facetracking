@@ -99,7 +99,7 @@
                         </form>
 
                         <div class="text-small mt-5 text-center">
-                            Copyright &copy; Your Company. Made with 💙 by Stisla
+                            Copyright &copy; Face Tracking. Made with 💙 by Stisla
                             <div class="mt-2">
                                 <a href="#">Privacy Policy</a>
                                 <div class="bullet"></div>

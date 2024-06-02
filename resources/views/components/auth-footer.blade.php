@@ -1,3 +1,3 @@
   <div class="simple-footer">
-      Copyright &copy; Stisla 2018
+      Copyright &copy; Face Tracking 2024
   </div>

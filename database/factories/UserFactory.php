@@ -28,6 +28,9 @@ class UserFactory extends Factory
             'email' => fake()->unique()->safeEmail(),
             'email_verified_at' => now(),
             'password' => static::$password ??= Hash::make('password'),
+            'role' => 'Staff',
+            'position' => 'Flutter developer',
+            'department' => 'IT',
             'remember_token' => Str::random(10),
         ];
     }

@@ -1,7 +1,7 @@
 <div class="main-sidebar sidebar-style-2">
     <aside id="sidebar-wrapper">
         <div class="sidebar-brand">
-            <a href="index.html">Stisla</a>
+            <a href="index.html">Face Tracking</a>
         </div>
         <div class="sidebar-brand sidebar-brand-sm">
             <a href="index.html">St</a>
@@ -22,6 +22,10 @@
             <li class="nav-item">
                 <a href="{{ route('attendances.index') }}"
                     class="nav-linkn" ><i class="fas fa-columns"></i> <span>Attendances</span></a>
+            </li>
+            <li class="nav-item">
+                <a href="{{ route('permissions.index') }}"
+                    class="nav-linkn" ><i class="fas fa-columns"></i> <span>Permissions</span></a>
             </li>
         </ul>
     </aside>
