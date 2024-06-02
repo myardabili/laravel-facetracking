@@ -19,6 +19,10 @@
                 <a href="{{ route('users.index') }}"
                     class="nav-linkn" ><i class="fas fa-columns"></i> <span>Users</span></a>
             </li>
+            <li class="nav-item">
+                <a href="{{ route('attendances.index') }}"
+                    class="nav-linkn" ><i class="fas fa-columns"></i> <span>Attendances</span></a>
+            </li>
         </ul>
     </aside>
 </div>
